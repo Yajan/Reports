@@ -1,7 +1,0 @@
-Login: itrNO = 1i: user = 1u: Overlay = 34618
-Login: itrNO = 1i: user = 1u: login = 36090
-Login: itrNO = 1i: user = 1u: Fileupload = 112736
-Login: itrNO = 1i: user = 1u: logout = 5495
-Login: itrNO = 1i: user = 1u: startTime = 2018-01-31T14:04:12.043
-Login: itrNO = 1i: user = 1u: EndTime = 2018-01-31T14:08:57.768
-Login: itrNO = 1i: user = 1u: TotalTime = 285725
