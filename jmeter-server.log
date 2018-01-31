@@ -1,0 +1,59 @@
+2018-01-31 15:02:21,981 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-01-31 15:02:22,664 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-01-31 15:02:22,745 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-01-31 15:02:22,745 INFO o.a.j.JMeter: Setting System property: java.rmi.server.hostname=172.31.36.207
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: java.version=1.8.0_141
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: os.name=Windows Server 2016
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: os.arch=amd64
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: os.version=10.0
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: Max memory     =536870912
+2018-01-31 15:02:22,871 INFO o.a.j.JMeter: Available Processors =1
+2018-01-31 15:02:22,952 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-01-31 15:02:22,993 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-01-31 15:02:22,993 INFO o.a.j.JMeter: JMeterHome=C:\Users\Administrator\Documents\apache-jmeter-3.3
+2018-01-31 15:02:22,993 INFO o.a.j.JMeter: user.dir  =C:\Users\Administrator\Documents\apache-jmeter-3.3\bin
+2018-01-31 15:02:22,993 INFO o.a.j.JMeter: PWD       =C:\Users\Administrator\Documents\apache-jmeter-3.3\bin
+2018-01-31 15:02:23,034 INFO o.a.j.JMeter: IP: 172.31.36.207 Name: EC2AMAZ-TKQOJEL FullName: 172.31.36.207
+2018-01-31 15:02:27,977 INFO o.a.j.e.RemoteJMeterEngineImpl: Starting backing engine on 1099
+2018-01-31 15:02:27,977 INFO o.a.j.e.RemoteJMeterEngineImpl: Resolving by name the value of System property 'java.rmi.server.hostname': 172.31.36.207
+2018-01-31 15:02:28,022 INFO o.a.j.e.RemoteJMeterEngineImpl: Local IP address=172.31.36.207
+2018-01-31 15:02:28,022 INFO o.a.j.e.RemoteJMeterEngineImpl: IP address is a site-local address; this may cause problems with remote access.
+	Can be overridden by defining the system property 'java.rmi.server.hostname' - see jmeter-server script file
+2018-01-31 15:02:28,022 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true)
+2018-01-31 15:02:28,184 INFO o.a.j.e.RemoteJMeterEngineImpl: Bound to registry on port 1099
+2018-01-31 15:15:59,500 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-01-31 15:15:59,663 INFO o.a.j.s.StandardSampleSender: Using StandardSampleSender for this test run
+2018-01-31 15:16:00,360 INFO o.a.j.s.StandardSampleSender: Using StandardSampleSender for this test run
+2018-01-31 15:16:01,012 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-01-31 15:16:01,012 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-01-31 15:16:01,012 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-01-31 15:16:01,012 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-01-31 15:16:01,913 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 18.216.241.104 base '.'
+2018-01-31 15:16:01,913 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 172.31.36.207
+2018-01-31 15:16:01,952 INFO o.a.j.s.FileServer: Default base='C:\Users\Administrator\Documents\apache-jmeter-3.3\bin'
+2018-01-31 15:16:01,952 INFO o.a.j.s.FileServer: Set new base='.'
+2018-01-31 15:16:02,118 INFO o.a.j.e.StandardJMeterEngine: Applying properties {count=1, users=1, rampUp=0}
+2018-01-31 15:16:02,118 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2018-01-31 15:16:02,362 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-01-31 15:16:02,402 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-01-31 15:16:02,730 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-01-31 15:16:02,730 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-01-31 15:16:22,329 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2018-01-31 15:16:22,329 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2018-01-31 15:16:22,329 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-01-31 15:16:22,329 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=0 perThread=0.0 delayedStart=false
+2018-01-31 15:16:22,537 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-01-31 15:16:22,537 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-01-31 15:16:24,818 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2018-01-31 15:17:35,289 INFO o.a.j.s.FileServer: Stored: Inputdatas.csv
+2018-01-31 15:18:46,812 INFO c.g.j.p.w.s.WebDriverSampler: Overlay is invisible now
+2018-01-31 15:18:46,892 INFO c.g.j.p.w.s.WebDriverSampler: 8924
+2018-01-31 15:18:46,892 INFO c.g.j.p.w.s.WebDriverSampler: 10241
+2018-01-31 15:18:46,893 INFO c.g.j.p.w.s.WebDriverSampler: test8924
+2018-01-31 15:18:46,894 INFO c.g.j.p.w.s.WebDriverSampler: test10241
+2018-01-31 15:18:46,894 INFO c.g.j.p.w.s.WebDriverSampler: Comming to finally
+2018-01-31 15:20:59,356 INFO c.g.j.p.w.s.WebDriverSampler: C:\Users\Administrator\Documents\apache-jmeter-3.3\bin/Testfiles/CSVoffice_main.csv
